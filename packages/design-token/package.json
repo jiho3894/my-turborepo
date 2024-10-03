@@ -1,0 +1,9 @@
+{
+  "name": "@repo/design-token",
+  "version": "1.0.0",
+  "main": "src/tokens.ts",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}

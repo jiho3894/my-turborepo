@@ -1,0 +1,3 @@
+ ERR_PNPM_BAD_PM_VERSION  This project is configured to use v8.15.6 of pnpm. Your current pnpm is v9.0.6
+
+If you want to bypass this version check, you can set the "package-manager-strict" configuration to "false" or set the "COREPACK_ENABLE_STRICT" environment variable to "0"
