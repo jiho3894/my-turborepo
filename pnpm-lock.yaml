@@ -18,8 +18,6 @@ importers:
         specifier: ^5.4.5
         version: 5.4.5
 
-  packages/design-token: {}
-
   packages/eslint-config:
     devDependencies:
       '@typescript-eslint/eslint-plugin':
@@ -61,9 +59,6 @@ importers:
       '@chromatic-com/storybook':
         specifier: ^1.9.0
         version: 1.9.0(react@18.2.0)
-      '@repo/design-token':
-        specifier: workspace:*
-        version: link:../design-token
       '@repo/eslint-config':
         specifier: workspace:*
         version: link:../eslint-config
