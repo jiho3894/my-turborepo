@@ -1,5 +1,5 @@
-import { Colors, TDividerProps } from '@repo/design-token';
 import styled from '@emotion/styled';
+import { Colors, TDividerProps } from '../../design-token';
 
 interface IDividerProps {
   type: TDividerProps;
