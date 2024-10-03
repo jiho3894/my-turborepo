@@ -1,3 +1,3 @@
 export { Colors } from './styles';
-export { TFontSize } from './types';
+export type { TFontSize, TDividerProps, TIconColor } from './types';
 export { getColors } from './hooks';
